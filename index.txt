@@ -1,0 +1,38 @@
+step1 = [8, 5, 7, 3, 2, 4, 6, 9]
+   This is the problem we are using sort algorithm
+
+step2 = [5, 8, 7, 3, 2, 4, 6, 9]
+   comparing each neighboring number.
+
+step2 again=[5, 7, 8, 3, 2, 4, 6, 9]
+
+step2 again=[5, 7, 3, 8, 2, 4, 6, 9]
+
+step2 again=[5, 7, 3, 2, 8, 4, 6, 9]
+
+step2 again=[5, 7, 3, 2, 4, 8, 6, 9]
+
+step2 again=[5, 7, 3, 2, 4, 6, 8, 9]
+
+step2 again=[5, 3, 7, 2, 4, 6, 8, 9]
+
+step2 again=[5, 3, 2, 7, 4, 6, 8, 9]
+
+step2 again=[5, 3, 2, 4, 7, 6, 8, 9]
+
+step2 again=[5, 3, 2, 4, 6, 7, 8, 9]
+
+step2 again=[3, 5, 2, 4, 6, 7, 8, 9]
+
+step2 again=[3, 2, 5, 4, 6, 7, 8, 9]
+
+step2 again=[3, 2, 4, 5, 6, 7, 8, 9]
+
+step2 again=[2, 3, 4, 5, 6, 7, 8, 9]
+
+our sort algorithm step is solved
+
+
+
+
+
